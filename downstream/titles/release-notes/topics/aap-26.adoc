@@ -176,7 +176,7 @@ The following table outlines the supported migration paths for {PlatformNameShor
 |Source environment |Target environment
 
 |RPM-based {PlatformNameShort}
-|Container-based {PlatformNameShort} platform
+|Container-based {PlatformNameShort}
 
 |RPM-based {PlatformNameShort}
 |{OCPShort}
